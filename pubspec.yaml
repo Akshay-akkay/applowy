@@ -20,7 +20,8 @@ dependencies:
     # 0.1.4
     # path: ../appflowy_editor
   flowy_infra:
-    path: ../flowy_infra
+    git:
+      url: 'https://github.com/Akshay-akkay/flowy_infra.git'
   flowy_infra_ui:
     path: ../flowy_infra_ui
   appflowy_popover:
