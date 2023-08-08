@@ -26,7 +26,8 @@ dependencies:
     git:
       url: 'https://github.com/Akshay-akkay/flowy_infra_ui.git'
   appflowy_popover:
-    path: ../appflowy_popover
+    git:
+      url: 'https://github.com/Akshay-akkay/appflowy-popover.git'
   flutter_math_fork:
     git:
       url: 'https://github.com/DouglasSerena/flutter_math_fork.git'
