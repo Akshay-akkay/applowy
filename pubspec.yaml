@@ -21,7 +21,7 @@ dependencies:
     # path: ../appflowy_editor
   flowy_infra:
     git:
-      url: 'https://github.com/Akshay-akkay/flowy_infra.git'
+      url: 'https://github.com/Akshay-akkay/flowy-infra.git'
   flowy_infra_ui:
     git:
       url: 'https://github.com/Akshay-akkay/flowy-infra-ui.git'
